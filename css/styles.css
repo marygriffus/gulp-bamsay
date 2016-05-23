@@ -1,0 +1,13 @@
+body {
+  background: #4cffa6; }
+
+h1 {
+  text-align: center;
+  color: #4cffa6;
+  text-transform: uppercase;
+  font-family: 'Helvetica Neue';
+  font-weight: 100;
+  font-size: 10em;
+  letter-spacing: .075em;
+  text-shadow: -1px 0px 0px #fefefe, -2px 1px 0px #fefefe, -3px 2px 0px #fefefe, -4px 3px 0px #fefefe, -5px 4px 0px #fefefe, -6px 5px 0px #fefefe, -7px 6px 0px #fefefe, -8px 7px 0px #fefefe, -9px 8px 0px #fefefe, -10px 9px 0px #fefefe, -11px 10px 0px #fefefe, -12px 11px 0px #fefefe, -13px 12px 0px #fefefe, -14px 13px 0px #fefefe, -15px 14px 0px #fefefe, -16px 15px 0px #fefefe, -17px 16px 0px #fefefe, -18px 17px 0px #fefefe, -19px 18px 0px #fefefe, -20px 19px 0px #fefefe, -21px 20px 0px #fefefe, -22px 21px 0px #fefefe, -23px 22px 0px #fefefe, -24px 23px 0px #fefefe, -25px 24px 0px #fefefe, -26px 25px 0px #fefefe, -27px 26px 0px #fefefe, -28px 27px 0px #fefefe, -29px 28px 0px #fefefe, -30px 29px 0px #fefefe, -31px 30px 0px #fefefe, -32px 31px 0px #fefefe, -33px 32px 0px #fefefe, -34px 33px 0px #fefefe, -35px 34px 0px #fefefe, -36px 35px 0px #fefefe, -37px 36px 0px #fefefe, -38px 37px 0px #fefefe, -39px 38px 0px #fefefe, -40px 39px 0px #fefefe, -41px 40px 0px #fefefe;
+  transform: skew(8deg); }
